@@ -1,1 +1,2 @@
-# SQL-Attack-Detection-
+# SQLI-Scanner
+using BASH
